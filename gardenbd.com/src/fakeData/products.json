@@ -1,0 +1,111 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Gardening Tool 3 in one",
+    "price": 15,
+    "stock": 20,
+    "ratings": 4,
+    "img": "https://www.freepik.com/free-photo/flower-pot-floor_10133536.htm",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "Mud Pot 12 inch ",
+    "price": 10,
+    "stock": 19,
+    "ratings": 5,
+    "img": "https://www.freepik.com/free-photo/high-angle-flowers-pots_10133526.htm",
+    "shipping": 14,
+    "quantity": 0
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Gardening Tool 5 in one",
+    "price": 140,
+    "stock": 20,
+    "ratings": 4,
+    "img": "https://www.freepik.com/free-photo/frame-tools-gardening_10133554.htm",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "Gardening Soil",
+    "price": 100,
+    "stock": 10,
+    "ratings": 5,
+    "img": "https://www.freepik.com/premium-photo/hands-are-transplanting-home-plants-into-pots-top-view-succulent-care-concept-high-quality-photo_19873150.htm",
+    "shipping": 32,
+    "quantity": 0
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "Gardening Tool 2 in one",
+    "price": 287,
+    "stock": 11,
+    "ratings": 4,
+    "img": "https://www.freepik.com/free-photo/woman-hat-working-garden_9659553.htm",
+    "shipping": 49,
+    "quantity": 0
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "name": "Big shovel",
+    "price": 138,
+    "stock": 19,
+    "img": "https://www.freepik.com/free-photo/mother-son-plating-together_13762173.htm",
+    "shipping": 19,
+    "quantity": 0
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+    "name": "Water Pot",
+    "price": 226,
+    "stock": 1,
+    "ratings": 4,
+    "img": "https://www.freepik.com/free-photo/worker-pours-flowerpoots-girl-white-shirt-woman-with-funnel_11161715.htm",
+    "shipping": 15,
+    "quantity": 0
+  },
+  {
+    "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+    "name": "12 inch Shovel",
+    "price": 70,
+    "stock": 7,
+    "ratings": 4,
+    "img": "https://www.freepik.com/free-photo/top-view-indoor-plant-pots-with-trowel_12391851.htm",
+    "shipping": 50,
+    "quantity": 0
+  },
+  {
+    "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+    "name": "White Pot",
+    "price": 20,
+    "stock": 4,
+    "ratings": 5,
+    "img": "https://www.freepik.com/free-photo/medium-shot-woman-holding-gardening-tool_12144547.htm",
+    "shipping": 46,
+    "quantity": 0
+  },
+  {
+    "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+    "name": "Prunner",
+    "price": 70,
+    "stock": 1,
+    "ratings": 4,
+    "img": "https://www.freepik.com/free-photo/man-trimming-bough-brush-senior-black-apron_10065419.htm?query=garden&collectionId=1490&page=2&position=1&from_view=collections",
+    "shipping": 36,
+    "quantity": 0
+  },
+  {
+    "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+    "name": "Water Pot 200ML",
+    "price": 9,
+    "stock": 15,
+    "ratings": 5,
+    "img": "https://www.freepik.com/premium-photo/fittonia-hypoestes-succulents-cactus-stay-home-gardening-replanting-flower-indoor-garden-potted-green-plants-home-garden-supplies-urban-jungle-layout_18538387.htm",
+    "shipping": 29,
+    "quantity": 0
+  }
+]
