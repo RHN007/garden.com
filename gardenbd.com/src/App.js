@@ -21,10 +21,11 @@ function App() {
         <article>
           <h1>Props Vs State </h1>
           <p>
-             Props are read-only
-              State changes can be asynchronous 
-              Props can not be modified 
+             Props are read-only.
+              State changes can be asynchronous .
+              Props can not be modified .
               State can be modified using this.setState 
+              In Props data is passed from one components to another where in state data is passed within the component only.
          </p>
         </article>
       </div>
