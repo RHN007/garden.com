@@ -12,14 +12,10 @@ const Store = () => {
         .then(res => res.json())
         .then(data => setProducts(data))
     },[])
-   
-   
-   
-   
-   
-   
+    
+
     const [cart, setCart] =useState([])
-    console.log(cart)
+
     
 
     const handleAddToCart =(product) => {
@@ -30,10 +26,13 @@ const Store = () => {
     else{
         const newCart = [...cart,product];
         setCart(newCart); 
-        console.log(newCart)
     }     
     }
 
+        const handleRemoveItem = (cart) => {
+            
+            setCart()
+        }
   
    
 
@@ -52,10 +51,10 @@ const Store = () => {
             </div>
             <div className='cart-container'>
                    
-                 <Cart cart={cart}></Cart>
-           
-               
-               
+                 <Cart cart={cart}
+                 handleRemoveItems = {handleRemoveItem}
+                 ></Cart>  
+                
 
             </div>
         </div>
