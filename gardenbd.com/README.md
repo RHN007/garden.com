@@ -1,7 +1,7 @@
 # This is representing Garden.com
 ## 
 
-This project was bootstrapped with [Create React App](https://willowy-donut-6c5fe2.netlify.app/).
+This project was bootstrapped with [Garden.com](https://willowy-donut-6c5fe2.netlify.app/).
 
 ## Available Scripts
 
